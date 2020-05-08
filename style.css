@@ -1,0 +1,164 @@
+*{
+    font-family: serif;
+}
+.header-top{
+    background-color: #316DC3;
+    width:100%;
+    
+    margin: 0
+}
+.mainheadp{
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+.b1,.b2,.b3{
+    font-size: 8pt;
+    padding: 5px 7px;
+    color: green;
+    
+}
+
+.head{
+    color: white;
+    display: inline;
+    margin: 0 12px
+}
+.iconss, .buttons{
+    align-content: center;
+    text-align: center;
+    padding: 7px
+}
+
+.navbar{
+    background-color: #f7f8fa !important;
+    
+}
+.logo{
+    width: 170px;
+    margin-left: 80px;
+}
+.nav-link:hover{
+    background-color: #316DC3;
+    color: white !important;
+    border-radius: 35px;
+    text-align: center;
+}
+.dropdown-item:hover{
+    background-color: #316DC3 !important;
+    color: white !important;
+}
+.navbar li.active a{
+    background-color: #316DC3 !important;
+    width: 70px;
+    text-align: center;
+    color: white !important;
+    border-radius: 35px;
+}
+.menuitems{
+    margin-left: 300px;
+    color:black
+
+}
+.nav-link{
+    color: black !important
+}
+
+.carousel-control-prev, .carousel-control-next{
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 100px;
+    height:70px;
+    width: 70px !important;
+    margin-top: 140px
+}
+.intro,.services{
+    background-color: #f7f8fa
+}
+.i1{
+    color: #316DC3;
+    text-align: center;
+    font-family: serif;
+    font-weight: bold
+}
+.i2{
+    color: green
+}
+.title-icon{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.counter{
+    background-color:#316DC3;
+    width: 100%
+}
+.icons{
+    margin: 50px 0 70px
+}
+.onlsad{
+    box-shadow: 5px 5px 18px rgb(160, 160, 160);
+    background-color: white;
+    text-align: center
+}
+.green{
+    color: green;
+    background-color:green;
+    width: 60px;
+    float: left;
+}
+.missions{
+    background-color: #f7f8fa;
+    border: 1px solid #eeeeee;
+    padding: 15px;
+    margin-bottom: 20px;
+    margin: 0 15px;
+    width:350px
+    
+    
+}
+
+.foot{
+    color: #bbb;
+    list-style-type: none;
+}
+.footer{
+    color: #427900
+}
+.social{
+
+    color: white;
+    background-color: #316DC3;
+    width:40px;
+    height: 40px;
+    text-align: center;
+    border-radius: 300px;
+    padding-top: 12px;
+    margin: 2px;
+    display: inline-block !important
+    
+}
+.footerbottom{
+    background-color: #316DD9 !important;
+    padding-top:10px 
+}
+
+.scrollToTop {
+    background: rgba(0, 0, 0, 0.1);
+    bottom: 15px;
+    display: none;
+    height: 50px;
+    padding: 2px;
+    position: fixed;
+    right: 15px;
+    text-align: center;
+    text-decoration: none;
+    width: 50px;
+    z-index: 99999;
+}
+
+.arrow{
+    color:white;
+    font:14px
+
+}
